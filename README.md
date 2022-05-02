@@ -1,0 +1,2 @@
+# redux3_seprate_folder
+redux3_seprate_folder
